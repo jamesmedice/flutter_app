@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "834180051645",
+    "project_id": "prj-std-consex-smart-001",
+    "storage_bucket": "prj-std-consex-smart-001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834180051645:android:fb991581aebad5c68fbdd4",
+        "android_client_info": {
+          "package_name": "com.consex.app001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834180051645-rfkrg9noarmbjrjospuv472a64vmveds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.consex.app001",
+            "certificate_hash": "444f75809ed3e7403e888ac59454b500b1272a50"
+          }
+        },
+        {
+          "client_id": "834180051645-bgsb15vh4iu3udh6aoi75juf86745n9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvhwDtefyOGXUJo-pn2VgxNO0DY6STx-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834180051645-bgsb15vh4iu3udh6aoi75juf86745n9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
